@@ -1,44 +1,20 @@
 # Olá, me chamo Weslley Santos de Oliveira Ruas !
 
 - Possuo habilidades na resolução de problemas, tenho facilidade em trabalhar sob pressão e atender aos prazos pré-estabelecidos.
-- Estou sempre estudando e me atualizando para ficar engajado em novas linguagens e tecnologias.
+- Estou sempre estudando e me atualizando para ficar engajado em novas linguagens e tecnologias. 
 - Atualmente procurando estágio para desenvolvedor de em qualquer stack.
 
 ## Ferramentas e Tecnologias
 
-<div style="display: flex; gap: 16px;">
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">HTML 5</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">CSS 3</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">Javascript</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">Sass</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">Typescript</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">Reactjs</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">Nextjs</span>
-</div>
-<div style="display: flex; flex-direction: column;align-items:center; gap:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48"/>
-    <span style="font-size:12px; line-height:16px;">Jest</span>
-</div>
+<div style="display: flex; gap: 4px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48"/>
 </div>
 
 <br/>
