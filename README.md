@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, eu sou [Weslley Ruas]
 
-<!--
-**WeslleySORDev/WeslleySORDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Possuo habilidades na resolução de problemas, tenho facilidade em trabalhar sob pressão e atender aos prazos pré-estabelecidos. 
+Estou sempre estudando e me atualizando para ficar engajado em novas linguagens e tecnologias. Atualmente procurando estágio para desenvolvedor de em qualquer stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+html, css, sass, javascript, es6, typescript, react, nextjs, axios context-api, react-hooks, styled-components
+
+## Meus projetos
+
+![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=WeslleySORDev&repo=dtmoney-wsor&theme=dark)
+![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=WeslleySORDev&repo=pokedex&theme=dark)
+
+## Minhas habilidades
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleySORDev&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WeslleySORDev&show_icons=true&theme=dark)
+
+## Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/usuario/)
+- [Twitter](https://twitter.com/usuario)
+- [Website](https://www.seusite.com
