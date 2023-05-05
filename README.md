@@ -1,8 +1,12 @@
 # Olá, me chamo Weslley Santos de Oliveira Ruas !
 
 - Possuo habilidades na resolução de problemas, tenho facilidade em trabalhar sob pressão e atender aos prazos pré-estabelecidos.
+<<<<<<< HEAD
 - Estou sempre estudando e me atualizando para ficar engajado em novas linguagens e tecnologias. 
 - Atualmente procurando estágio para desenvolvedor de em qualquer stack.
+=======
+- Estou sempre estudando e me atualizando para ficar engajado em novas linguagens e tecnologias. Atualmente procurando estágio para desenvolvedor de em qualquer stack.
+>>>>>>> 1b768620f7414ff2276af04b083e0f341c4f8d81
 
 ## Ferramentas e Tecnologias
 
