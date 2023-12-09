@@ -2,7 +2,6 @@
 
 - Possuo habilidades na resolução de problemas, tenho facilidade em trabalhar sob pressão e atender aos prazos pré-estabelecidos.
 - Estou sempre estudando e me atualizando para ficar engajado em novas linguagens e tecnologias. 
-- Atualmente procurando estágio para desenvolvedor de em qualquer stack.
 
 ## Ferramentas e Tecnologias
 
